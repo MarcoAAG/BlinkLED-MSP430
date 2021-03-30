@@ -1,0 +1,3 @@
+{
+    "files": ["qml/controls/BlinkGUI.qml","main.qml","main.py"]
+}
