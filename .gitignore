@@ -1,1 +1,6 @@
+*.settings
+*.ccsproject
+*.cproject
+*.project
 /RemoteSystemsTempFiles
+
